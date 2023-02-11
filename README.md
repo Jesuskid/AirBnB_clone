@@ -6,7 +6,7 @@ This project is a clone of the famous airbnb rental booking site on the commandl
 
 
 ### Installation
-Clone this repository: git clone "https://github.com/Abinet508/AirBnB_clone.git"
+Clone this repository: git clone "https://github.com/Jesuskid/AirBnB_clone"
 Access AirBnb directory: cd AirBnB_clone
 Run hbnb(interactively): ./console and enter command
 Run hbnb(non-interactively): echo "" | ./console.py
