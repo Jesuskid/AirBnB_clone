@@ -1,7 +1,12 @@
-#/usr/bin/bash python3
+#!/usr/bin/python3
 """Module defines the Console class"""
 import  cmd
 from models.base_model import BaseModel
+from models.user import User
+from  models.amenity import Amenity
+from models.place import Place
+from models.state import State
+from models.city import City
 from models import storage
 import re
 from shlex import  split
